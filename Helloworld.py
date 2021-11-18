@@ -1,1 +1,8 @@
 print( 'Hello,world')
+print("What is you name")
+name = input ()
+print(" Hey, There " + name)
+print("How are you doing? " + name)
+Mood = input ()
+Food = input ()
+print(" What is your favorite food? " + Food)
